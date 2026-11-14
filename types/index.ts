@@ -9,6 +9,8 @@ export interface PhilosophyEntry {
   context: string;
   significance: string;
   era: string;
+  image: string;
+  sourceBook: string;
 }
 
 export interface TopicCategory {
